@@ -87,3 +87,5 @@ function searchFilter() {
 }
 
 searchField.addEventListener('keyup', searchFilter);
+
+baguetteBox.run('.grid-container');
