@@ -1,2 +1,2 @@
-# techdegree-project-5
-Interactive photo gallery
+# Interactive photo gallery
+Build a responsive photo gallery and utilize JavaScript to add a search filter
